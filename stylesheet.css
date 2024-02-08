@@ -1,0 +1,34 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+form {
+  height: 83vh;
+  background-color: #76aecc;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.form-group {
+  padding-left: 40%;
+  padding-bottom: 10px;
+  font-weight: 500;
+}
+#Country,
+#lastname {
+  margin-top: 8px;
+}
+#address {
+  height: 120px;
+  width: 190px;
+}
+.btn {
+  background-color: blue !important;
+  color: white !important;
+  border-radius: 8px !important;
+}
+.table {
+  margin-top: 15px;
+}
